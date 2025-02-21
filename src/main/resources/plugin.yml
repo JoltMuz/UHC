@@ -1,0 +1,9 @@
+name: UHC
+main: io.github.JoltMuz.UHC.Main
+version: 1.0
+author: JoltTheBolt
+description: A plugin for UHC event.
+commands:
+  uhc:
+    description: The commands for UHC event.
+    usage: /uhc ?
